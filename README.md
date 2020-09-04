@@ -4,5 +4,5 @@ These two examples are applications of [Dedupe](https://github.com/dedupeio/dedu
 
 ## How do I run this?
 
-Set up a new conda environment with the `.yml` file, and set up a local Postgres DB. \n
+Set up a new conda environment with the `.yml` file, and set up a local Postgres DB.
 Make sure to run the `.ipynb` files suffixed with '-data' first, as those are needed to preprocess the data. All data is included in the repository.
